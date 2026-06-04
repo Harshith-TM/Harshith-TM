@@ -63,5 +63,5 @@ Making apps that are more responsive than I am. 😌
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Harshith-TM">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshith-TM&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Harshith-TM&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
