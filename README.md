@@ -4,8 +4,8 @@ Hi 👋 My name is Harshith TM
 Android Developer
 -----------------
 
-Introvert by nature, Android developer by choice. Prefer debugging apps over socializing.
-Social battery runs low, but teamwork support is fully enabled.
+I'm an Android Developer passionate about building user-friendly mobile applications with Java and Kotlin. Enthusiastic about Android Developement, clean code practices and continuous learning. Also a person who knows the rules of the classic era(XML) and learning the tools of the future(Jetpack Compose). Ready to maintain legacy codebases while learning to build the next generation apps.
+
 Making apps that are more responsive than I am. 😌
 
 🌱 Currently seeking opportunities to contribute to innovative projects and grow as a Android Developer.
